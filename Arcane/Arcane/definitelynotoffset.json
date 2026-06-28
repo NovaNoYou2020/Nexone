@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "defaultProfile": "b3095",
+  "profiles": {
+    "b3095": {
+      "module": {
+        "World": "0x2593320",
+        "ReplayInterface": "0x1F58B58",
+        "ViewPort": "0x20019E0",
+        "Camera": "0x2002888",
+        "Camera2": "0x20025B8",
+        "bIsPlayerAiming": "0x2D3839C",
+        "PlayerAimingAt": "0x200FA10",
+        "HandleBullet": "0x100F5A4",
+        "BlipList": "0x2002FA0"
+      },
+      "struct": {
+        "EntityType": "0x1098",
+        "PlayerSpeed": "0x0D50",
+        "Armor": "0x150C",
+        "BoneManager": "0x430",
+        "PlayerInfo": "0x10A8",
+        "PlayerNetID": "0xE8",
+        "WeaponManager": "0x10B8",
+        "FragInsNmGTA": "0x1430",
+        "ConfigFlags": "0x1444",
+        "LastDamagedBone": "0x1740",
+        "MaxHealth": "0x284",
+        "LastVehicle": "0xD10",
+        "Driver": "0xC90",
+        "DoorLock": "0x13C0",
+        "Stamina": "0xCF4",
+        "VisibleFlag": "0x145C",
+        "Handling": "0x960",
+        "EngineHealth": "0x910",
+        "DoorStatus": "0x8A8",
+        "VehicleState": "0x972",
+        "FrameFlag": "0x0270",
+        "SeatBelt": "0x143C",
+        "SeatBeltWindShield": "0x1448",
+        "AmmoType": "0x20",
+        "AmmoExplosiveType": "0x24"
+      }
+    }
+  }
+}
